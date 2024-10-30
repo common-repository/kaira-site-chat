@@ -1,0 +1,886 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Chat by Kaira\n"
+"POT-Creation-Date: 2023-07-05 17:07+0200\n"
+"PO-Revision-Date: 2022-03-29 10:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kaira\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: kaira-site-chat.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: dist\n"
+"X-Poedit-SearchPathExcluded-3: freemius\n"
+"X-Poedit-SearchPathExcluded-4: images\n"
+"X-Poedit-SearchPathExcluded-5: bundled\n"
+"X-Poedit-SearchPathExcluded-6: readme-settings.txt\n"
+"X-Poedit-SearchPathExcluded-7: gulpfile.js\n"
+"X-Poedit-SearchPathExcluded-8: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-9: src/blocks\n"
+
+#: classes/class-admin.php:43 classes/class-enqueue-scripts.php:272
+msgid "Site Chat Settings"
+msgstr ""
+
+#: classes/class-admin.php:44
+msgid "WhatsApp Settings"
+msgstr ""
+
+#: classes/class-admin.php:55
+msgid "Settings"
+msgstr ""
+
+#: classes/class-admin.php:67
+msgid "View Site Chat documentation"
+msgstr ""
+
+#: classes/class-admin.php:67 classes/class-enqueue-scripts.php:548
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-admin.php:68
+msgid "Go to Site Chat FAQ's"
+msgstr ""
+
+#: classes/class-admin.php:68 classes/class-enqueue-scripts.php:549
+msgid "FAQ's"
+msgstr ""
+
+#: classes/class-admin.php:132
+msgid "Thank you for trying out Site Chat !"
+msgstr ""
+
+#. translators: 1: 'great launch specials'.
+#: classes/class-admin.php:137
+#, php-format
+msgid "We've just released Site Chat so we're running %1$s on Site Chat Pro."
+msgstr ""
+
+#: classes/class-admin.php:143
+msgid "Let's set up your Site Chat"
+msgstr ""
+
+#. translators: 1: 'Site Chat Settings'.
+#: classes/class-admin.php:147
+#, php-format
+msgid "Go to the %1$s page to easily set up your WhatsApp chat box."
+msgstr ""
+
+#: classes/class-admin.php:150
+msgid "Set up Site Chat"
+msgstr ""
+
+#: classes/class-admin.php:154
+msgid "Is something not working?"
+msgstr ""
+
+#. translators: 1: 'Read our documentation'.
+#: classes/class-admin.php:158
+#, php-format
+msgid ""
+"Have you found a bug? Are you not sure on how to set it up? %1$s or get help "
+"on setting up Site Chat."
+msgstr ""
+
+#: classes/class-admin.php:161
+msgid "Contact our Support"
+msgstr ""
+
+#: classes/class-admin.php:165
+msgid "Help Site Chat"
+msgstr ""
+
+#: classes/class-admin.php:167
+msgid ""
+"If you're willing to, please consider giving us a 5 star rating... It'll "
+"really help us improve Site Chat and gain users trust."
+msgstr ""
+
+#: classes/class-admin.php:169
+msgid "Sure, I'll rate Site Chat"
+msgstr ""
+
+#: classes/class-admin.php:171
+msgid ""
+"If you're not happy, please get in contact and let us help you fix the issue "
+"right away."
+msgstr ""
+
+#: classes/class-admin.php:172
+msgid "I'm happy to give you 5 stars"
+msgstr ""
+
+#: classes/class-admin.php:173
+msgid "I'm not happy. Please help!"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:274
+msgid "General Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:275
+msgid "Design Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:276
+msgid "Display Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:277
+msgid "Help"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:280
+msgid "Account Page"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:281
+msgid "View Documentation"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:284
+msgid "No Options Set!"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:285
+msgid "Select..."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:286
+msgid "Turn on Site Chat"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:288
+msgid "WhatsApp Contacts"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:289
+msgid ""
+"Enter a full phone number in international format, excluding any brackets, "
+"dashes and zeroes at the start of the phone number."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:290
+msgid "Upload Media"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:291
+msgid "Name"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:292
+msgid "Position / Reply Time"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:293
+msgid "WhatsApp Number"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:294
+msgid "Times Available"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:295
+msgid "Available From"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:296
+msgid "To"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:297
+msgid "Add Another Contact"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:298
+msgid "Upload Image"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:299
+msgid "Add Image"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:302 classes/class-enqueue-scripts.php:516
+msgid "Enable 'Times Available'"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:303
+msgid "Use this to set the times that agents are available to be contacted'"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:306
+msgid "Online / Offline Display"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:307
+msgid "None"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:308
+msgid "Display Online Dot"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:309
+msgid "Display Offline Greyed Out"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:310
+msgid "Display Offline Greyed Out Plus Online Dot"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:311
+msgid "Remove Offline Agents"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:312
+msgid ""
+"Set the 'Times Available' on each contact to view the online/offline display"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:315
+msgid "Disable Offline Agents"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:316
+msgid ""
+"This will remove the click action that lets site visitors send a chat to "
+"agents that are displayed as offline"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:319
+msgid "Intro Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:320 classes/class-enqueue-scripts.php:556
+msgid "Start a Conversation"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:323
+msgid "Intro Description"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:324 classes/class-enqueue-scripts.php:557
+msgid "Hi! Please select one of our team members to chat with on WhatsApp."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:325
+msgid "To remove this text, simply enter a space, and click 'Save'"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:327
+msgid "Remove WhatsApp Icon"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:329 classes/class-enqueue-scripts.php:331
+msgid "'Reply Time' Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:330 classes/class-enqueue-scripts.php:558
+msgid "The team typically replies within an hour"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:334
+msgid "Message Placeholder Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:335 classes/class-enqueue-scripts.php:559
+msgid "Hi! How can we help you?"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:338
+msgid "Call To Action"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:339 classes/class-enqueue-scripts.php:560
+msgid "Send to WhatsApp"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:342
+msgid "Enable Links"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:343
+msgid ""
+"Add links to join your WhatsApp group(s) or any other external links you "
+"choose."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:346
+msgid "Link URL"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:347
+msgid "Link Title"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:348
+msgid "Add Another Link"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:351
+msgid "Add Notification & Message"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:352
+msgid "Add a notification to offer specials or pages to view"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:355
+msgid "Notification Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:356
+#, php-format
+msgid ""
+"Use the coupon 'KAIRA' to [*https://wpsitechat.com/ | get 10% off] your next "
+"purchase!"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:357
+msgid "To add links use [*https://wpsitechat.com/ | link text]"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:360
+msgid "Notification Position"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:361
+msgid "Above the list of contacts"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:362
+msgid "In all the contacts chats"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:363
+msgid "Only on selected users"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:366
+msgid "Users Names"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:367
+msgid ""
+"Enter the names (separated by a comma) of the users that you want to add the "
+"note to. Add the names exactly as they appear in the 'Whatsapp Contacts' "
+"section."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:370
+msgid "Show Notification"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:371
+msgid "Always, On each page load"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:372
+msgid "Show only once until the chat is opened"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:375
+msgid "Display As"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:376
+msgid "Icon"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:377
+msgid "Icon With Popup Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:378
+msgid "Button"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:381 classes/class-enqueue-scripts.php:417
+msgid "Button Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:382
+msgid "Icon Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:383
+msgid "Plain Green"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:384
+msgid "Flat Green"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:385
+msgid "Plain Black"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:386
+msgid "Gradient Green"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:388
+msgid "Size"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:390
+msgid "Style"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:391 classes/class-enqueue-scripts.php:443
+msgid "Default"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:392
+msgid "Round"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:393
+msgid "Square"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:396
+msgid "Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:397 classes/class-enqueue-scripts.php:561
+msgid "WhatsApp Chat"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:399
+msgid "Remove Header"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:400
+msgid "Select Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:401
+msgid "Background Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:402
+msgid "Font Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:403
+msgid "Click on a team member to view the chatbox area"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:405
+msgid "Box Height"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:406
+msgid ""
+"Enter the height in pixels that you want the chat members and message area "
+"to be."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:408
+msgid "pixels"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:410
+msgid "Chatbox Design"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:411
+msgid "Plain Design"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:412
+msgid "WhatsApp Design"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:413
+msgid "WhatsApp Design with Light Pattern"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:414
+msgid "WhatsApp Design with Dark Pattern"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:416
+msgid "Chat Bubble Color"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:419 classes/class-enqueue-scripts.php:528
+msgid "Display On"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:420
+msgid "All Pages"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:421
+msgid "Only On WooCommerce Pages"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:422
+msgid "WooCommerce Product Pages Only"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:423
+msgid "Selected Pages/Posts"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:426
+msgid "Position"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:427
+msgid "Right"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:428
+msgid "Left"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:430
+msgid "Select Pages"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:431
+msgid "Override Product Pages Text"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:433
+msgid "Exclude Contacts"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:434
+msgid ""
+"Enter the names (separated by a comma) of the users that you want to exclude "
+"from the store product pages. Add the names exactly as they appear in the "
+"'Whatsapp Contacts' section."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:437
+msgid "Include Product Title & URL"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:438
+msgid ""
+"This will add the product Title and URL to the message when a user messages "
+"from a product page."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:440
+msgid "Change Button Position"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:442
+msgid "WooCommerce Hook"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:444
+msgid "WooCommerce before 'Add to Cart' form"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:445
+msgid "WooCommerce after 'Add to Cart' form"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:446
+msgid "WooCommerce Product Meta Start"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:447
+msgid "WooCommerce Product Meta End"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:448
+msgid "WooCommerce Share"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:451
+msgid "Enable Per Page Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:452
+msgid ""
+"Go to Dashboard -> Pages and edit the page you want to customize the text "
+"for on that page. In the right sidebar, edit the settings there."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:455
+msgid "Remove on Desktop"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:456
+msgid ""
+"This will remove the WhatsApp button on screen sizes larger than 980 pixels "
+"wide (desktop)."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:459
+msgid "Remove on Tablet"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:460
+msgid ""
+"This will remove the WhatsApp button on screen sizes smaller than 980 pixels "
+"and larger than 782 pixels (tablet / iPad)."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:463
+msgid "Remove on Mobile"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:464
+msgid ""
+"This will remove the WhatsApp button on screen sizes smaller than 782 pixels "
+"wide (mobile)."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:466
+msgid "Exclude Users"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:467
+msgid "Remove Site Chat from this page"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:470
+msgid "Save Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:471
+msgid "Reset/Delete all settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:472
+msgid "Confirm... Delete all Options!"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:473
+msgid "Are you sure you want to delete all settings?"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:477
+msgid "Contact Available Times"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:478
+msgid ""
+"This will let you set the available times for the contacts created above, "
+"and select how they display as online or offline, or to remove them if their "
+"time is not set."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:480
+msgid "Chat Box Copy"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:482
+msgid "Group & External Links"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:483
+msgid ""
+"Here you can add links to join your WhatsApp group(s) or any external links "
+"you may need to add."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:488
+msgid "Chat Notification"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:489
+msgid ""
+"Add a notification to display a custom message in the chat box, such as "
+"purchase deals or upcoming specials."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:494
+msgid "WhatsApp Icon / Button"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:495
+msgid "Select the Icon or Button display you want"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:497
+msgid "Header"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:498
+msgid "Chat Box"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:499
+msgid "Footer"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:501
+msgid "WooCommerce Product Pages"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:502
+msgid ""
+"This is for if you want to customize the text on the product single pages "
+"and use the available shortcodes."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:505
+msgid "Edit text Per Page"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:506
+msgid "This will let you override the box settings on a per page level."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:509
+msgid "Responsive Settings"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:510
+msgid ""
+"Choose which devices the Site Chat will display on. Responsive visibility "
+"will take effect only on the site front-end."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:514
+msgid "Premium Feature"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:517
+msgid ""
+"Set available times that your contacts/agents are online and able to chat, "
+"and choose between different online status displays."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:520
+msgid "Add Group or External Links"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:521
+msgid ""
+"If you have a WhatsApp group for anyone to be able to join, we give you the "
+"option to set up to 3 group chat links or any external links of your choice."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:524
+msgid "Add Chat Notification"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:525
+msgid ""
+"Increase sales! With the notification option you can offer specials or "
+"discount coupons for users to purchase on your store, or simply read a note "
+"you'd like them to see when viewing your website."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:529
+msgid ""
+"Select between different page display options to only display the chat on "
+"WooCommerce pages, WC product pages, or specific pages you choose to display "
+"the chat on."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:532
+msgid "Customize WooCommerce Pages"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:533
+msgid ""
+"Site Chat Pro gives you extra WooCommerce settings like including the "
+"product title and url in the chat, change the chat button position to site "
+"within the page content, choose which users are available to chat for "
+"products and more."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:536
+msgid "Enable Per Page Editing"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:537
+msgid ""
+"Easily remove certain users or completely remove the chat box on a per page "
+"level, as well as the options to edit the text per pages to further "
+"customize the site chat."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:539
+msgid "View Pro Features"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:540
+msgid "Try out Site Chat Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/class-enqueue-scripts.php:543
+msgid "Site Chat by Kaira"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:544
+msgid ""
+"All the settings are pretty self-explanatory or they will have hover hints "
+"explaining how they work... Or watch our video below on setting up Site Chat "
+"on your website."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:545
+msgid "Needing more help?"
+msgstr ""
+
+#. translators: 1: 'contact us for support.
+#: classes/class-enqueue-scripts.php:547
+#, php-format
+msgid ""
+"Read through our documentation or frequently asked questions on our website, "
+"or <a href=\"%s\" target=\"_blank\">contact us for support</a>."
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:550
+msgid "Site Chat Pro"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:551
+msgid ""
+"Site Chat Pro offers a bunch of extra features you'll enjoy... Currently on "
+"a launch special!"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:552
+msgid "Purchase Site Chat Pro"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:562
+msgid "Product Title"
+msgstr ""
+
+#: classes/class-enqueue-scripts.php:563
+msgid "Product URL"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpsitechat.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Website Chat & trusted support for your WordPress site and WooCommerce store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kaira"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://kairaweb.com/"
+msgstr ""
